@@ -1,7 +1,7 @@
 const searchInput = document.querySelector('#poke-input')
 const searchBtn = document.querySelector('.btn-search')
 const pokeContainer = document.querySelector('.poke-container')
-const pokeCount = 10
+const pokeCount = 151
 
 const colors = {
   fire: '#FDDFDF',
